@@ -22,9 +22,9 @@ Layout UI/UX RocketSeat.
 </p>
 
 <p align="center">
-  Versão deskotp:<br>
+  Versão deskotp:<br><br>
   <img alt="License" src="./assets/Desktop.png" width="70%" display="flex" gap="5px" ><br>
-  Versão mobile:<br>
+  Versão mobile:<br><br>
   <img alt="License" src="./assets/Mobile.png" width="40%" display="flex" gap="5px" >
 
 </p>
