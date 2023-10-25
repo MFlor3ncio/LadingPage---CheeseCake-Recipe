@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Land page de um blog de gatos.
+Land page de uma Receita.
 
 ## 🔖 Layout
 
